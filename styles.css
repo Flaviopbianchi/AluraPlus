@@ -135,7 +135,7 @@ body {
     color: var(--botao-azul);
 }
 .lista__link:active{
-    color: purple;
+    color: gray;
 }
 .rodape__texto{
     font-size: 14px;
